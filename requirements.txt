@@ -12,5 +12,5 @@ line_profiler
 memory_profiler
 numexpr
 pandas-datareader
-basemap
+https://github.com/matplotlib/basemap/archive/v1.0.7rel.tar.gz
 netcdf4
